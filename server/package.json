@@ -1,0 +1,15 @@
+{
+  "name": "gsma-proxy",
+  "version": "0.1.0",
+  "description": "Proxy for GSMA instance",
+  "main": "gsma-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose M. Cantera",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
