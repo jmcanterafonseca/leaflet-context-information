@@ -4,6 +4,10 @@ A Leaflet plugin + infrastructure for getting access to Context Information expo
 
 # How to use it
 
+```
+bower install leaflet-context-information
+```
+
 ```js
 var ngsiv2Layer = L.fiwareContextLayer({
     endPoint: 'http://localhost:1026',
