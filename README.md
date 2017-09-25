@@ -1,6 +1,6 @@
 # Leaflet plugin for displaying real time context information
 
-A Leaflet plugin + infrastructure for getting access Context Information exposed using the FIWARE NGSIv2 APIs. 
+A Leaflet plugin + infrastructure for getting access to Context Information exposed using the FIWARE NGSIv2 APIs. 
 
 # How to use it
 
