@@ -1,0 +1,28 @@
+{
+  "name": "leaflet-context-information",
+  "homepage": "https://github.com/jmcanterafonseca/leaflet-context-information",
+  "authors": [
+    "Jose Manuel Cantera <josemanuel.cantera@fiware.org>"
+  ],
+  "description": "Allows to render FIWARE NGSIv2 Layers (Real time context information layers)",
+  "main": "leaflet-ngsiv2/src/fiware_ngsi_layer.js",
+  "keywords": [
+    "fiware",
+    "ngsi",
+    "context",
+    "information",
+    "real",
+    "time",
+    "data",
+    "maps",
+    "leaflet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
