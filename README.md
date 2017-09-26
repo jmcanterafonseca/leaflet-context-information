@@ -1,5 +1,7 @@
 # Leaflet plugin for displaying real time context information
 
+[![MIT license][license-image]][license-url]
+
 A Leaflet plugin + infrastructure for getting access to Context Information exposed using the FIWARE NGSIv2 APIs. 
 
 # How to use it
