@@ -22,3 +22,6 @@ var ngsiv2Layer = L.fiwareContextLayer({
 
 ngsiv2Layer.addTo(map);
 ```
+
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-url]: LICENSE
